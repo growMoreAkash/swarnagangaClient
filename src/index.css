@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Catchye;
+  src: url("../src/fonts/Catchye.otf");
+}
+
+@font-face {
+  font-family: Century;
+  src: url("../src/fonts/Century751 No2 BT Roman.ttf");
+}
+
+@theme {
+  --font-catchye: Catchye, "sans-serif";
+  --font-century: Century, "sans-serif";
+
+  --breakpoint-sm: 480px;
+  --breakpoint-smx: 373px;
+
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 976px;
+
+  --breakpoint-xxl: 1276px;
+  --breakpoint-xxmd: 1400px;
+  --breakpoint-xxxmd: 1466px;
+  --breakpoint-xxsm: 543px;
+  
+  --breakpoint-xmd: 1000px;
+  --breakpoint-lg: 976px;
+}
