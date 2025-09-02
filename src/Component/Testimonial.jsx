@@ -8,20 +8,20 @@ const Testimonial = () => {
     {
       id: 1,
       image: image,
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      name: "Mrs. Ridhima Khanna",
+      text: "I had a great experience at the store! Kishan was extremely cooperative and took the time to explain each jewellery item in detail. His knowledge and patience really made the shopping experience enjoyable. The shop also has a pleasant and welcoming atmosphere. Highly recommended!",
+      name:"Shubhangi Shelar"
     },
     {
       id: 2,
       image: image,
-      text: "The quality of service and attention to detail from Swarnaganga is truly exceptional. Their team understood our needs perfectly and delivered beyond expectations. Highly recommend their expertise for anyone seeking top-tier solutions and creative brilliance.",
-      name: "Mr. Akash Sharma",
+      text: "I recently visited this jewellery store Swaranga Jewellers at Kharghar and had a wonderful experience. The staff was very cooperative, patient, and helpful throughout my visit. All the gold products were of excellent quality with beautiful designs. I’m very satisfied with their service and would highly recommend this store to anyone looking for quality jewellery and good customer service.",
+      name: "Sayali Gaikwad",
     },
     {
       id: 3,
       image: image,
-      text: "Working with Swarnaganga was a delightful experience. Their innovative approach to design and marketing helped us achieve significant growth. The professionalism and creativity they bring to the table are unmatched. A fantastic partner!",
-      name: "Ms. Priya Singh",
+      text: "I had a wonderful experience at the jewellery shop. The collection was elegant, well-curated, and suited a variety of budgets and occasions. Special thanks to Shashi, the attendant, who was extremely courteous and knowledgeable. She patiently guided me through the options, offered honest suggestions, and made the entire shopping experience smooth and enjoyable. Highly recommended!",
+      name:"Bajarang Shinde"
     },
   ];
 
